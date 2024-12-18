@@ -1,26 +1,15 @@
-# 📚 Cursos Alura
 
-Bem-vindo(a) ao repositório **Cursos Alura**! Aqui estão armazenados meus projetos desenvolvidos durante os cursos realizados na plataforma Alura. Este espaço é dedicado a organizar e compartilhar meu progresso e aprendizado em desenvolvimento web, programação e outras áreas de tecnologia.
+<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
 
----
+<hr>
 
-## 📂 Estrutura do Repositório
+<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
+<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
 
-Cada curso possui sua própria pasta organizada com os arquivos relacionados ao conteúdo aprendido. Abaixo, você encontra a lista dos cursos e uma breve descrição do que foi abordado:
+## Tecnologias
+* HTML
+* CSS
+* SwiperJS
 
-### 🗂️ Cursos
-- **Alura+ - Aula 04**
-  - Projeto: Criação de uma página utilizando HTML e CSS.
-  - Arquivos: `index.html`, `styles.css` e imagens utilizadas no site.
-  - Descrição: relembrei como estruturar uma página web e estilizar seus elementos com CSS.
-
-## 🛠️ Tecnologias Utilizadas
-- **HTML5** para a estruturação das páginas.
-- **CSS3** para estilização.
-
----
-
-## 🚀 Como Usar
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/GuilhermeCostaProenca/Cursos-Alura.git
+## Screenshots
+![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
